@@ -1,0 +1,98 @@
+a{
+  color: #11999E;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.btn {
+  background-image: linear-gradient(#11cdd4,#11999e);
+  border-radius: 8px;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 40px auto 70px auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+.chilli{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+hr{
+  width: 5%;
+  border-top: 8px dotted #EAF6F6;
+  border-width: 8px 0 0 0;
+  margin-bottom: 40px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.profile{
+  width: 30%;
+  margin: 70px auto
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  padding-top: 107px;
+}
+
+
+
+.top-cloud{
+  position: absolute;
+  top: 40px;
+    right: 460px;
+}
